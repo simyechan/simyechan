@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
 <br/>
 
+[![Simyechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=simyechan)](https://github.com/simyechan/github-readme-stats)
+
 </div>
