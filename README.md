@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 
-<br/>
+<br/><br/>
 
 <p>Framework</p>
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 <p>Version Control</p>
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 
-<br/>
+<br/><br/>
 
 ***
 
