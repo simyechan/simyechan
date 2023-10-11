@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/profile.php?id=100046025839366"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat"/></a>
 
+<br/>
 ***
 
 <p>Once I've used</p>
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-  
+<br/>
 
 <p>Develop Tools</p>
 
@@ -47,17 +48,23 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 
+<br/>
+
 <p>Framework</p>
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
 
+<br/>
+
 <p>Version Control</p>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
+
+<br/>
 
 ***
 
