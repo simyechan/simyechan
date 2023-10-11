@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 
-<br/>
+<p>SNS</p>
+
+<a href="https://instagram.com/simyecan62/"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat"/></a>
+
+<a href="https://www.facebook.com/profile.php?id=100046025839366"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat"/></a>
+
+***
+
+<p>programing languages</p>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
@@ -29,7 +37,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 
-<br/>
+<p>develop tools</p>
+
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
 ***
 
