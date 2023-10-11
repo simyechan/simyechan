@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/profile.php?id=100046025839366"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=flat"/></a>
 
-<br/>
 ***
 
 <p>Once I've used</p>
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<br/>
+<br/><br/><br/><br/>
 
 <p>Develop Tools</p>
 
